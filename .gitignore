@@ -1,0 +1,7 @@
+# Python virtual environment
+.venv/
+
+# Test data
+test.json
+
+.env
